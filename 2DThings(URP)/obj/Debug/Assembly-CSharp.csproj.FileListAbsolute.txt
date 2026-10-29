@@ -1,0 +1,2 @@
+D:\AppWorkspace\unityWorkspace\2DThings(URP)\2DThings(URP)\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\AppWorkspace\unityWorkspace\2DThings(URP)\2DThings(URP)\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
